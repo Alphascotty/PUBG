@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 const player = {
     x: canvas.width / 2,
     y: canvas.height / 2,
-    width: 30,
+    width: 30, 
     height: 30,
     color: 'green',
     speed: 5,
